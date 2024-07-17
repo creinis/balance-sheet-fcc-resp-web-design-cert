@@ -6,8 +6,8 @@
 <img src="https://img.icons8.com/color/75/000000/css3.png" width="75" height="75" alt="CSS" style="margin: 10px 15px 0 15px;" />
 </p>
 
-- **HTML:** HTML (HyperText Markup Language) is utilized in this project to structure the content and layout of the web pages. It defines the elements and their hierarchy, ensuring semantic structure for accessibility and SEO benefits.
-- **CSS:** CSS (Cascading Style Sheets) is employed extensively for styling and presentation. It defines the visual appearance of HTML elements, including layout, colors, fonts, and responsiveness. This project leverages CSS to create a visually appealing balance sheet interface that adapts seamlessly across different screen sizes.
+- **HTML:** HyperText Markup Language is utilized in this project to structure the content and layout of the web pages. It defines the elements and their hierarchy, ensuring semantic structure for accessibility and SEO benefits.
+- **CSS:** Cascading Style Sheets is employed extensively for styling and presentation. It defines the visual appearance of HTML elements, including layout, colors, fonts, and responsiveness. This project leverages CSS to create a visually appealing balance sheet interface that adapts seamlessly across different screen sizes.
 
 ### Try it!
 https://balance-sheet-fcc-resp-web-design-cert.vercel.app/
